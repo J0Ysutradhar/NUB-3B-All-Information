@@ -32,7 +32,7 @@
 | Maimuna Chowdhury | Data Structure Lab<br>CSE 2162 | 01868530774 | maimuna@nub.ac.bd | kljamt2t |
 | Md. Ashik Azad Khan Anik | Physics 1<br>PHY1201 | 01685114873 | ashikazad.cu@gmail.com | k5facrwr |
 | Airin Akter Tania | EEE & Circuit Analysis \| CSE 1205 | 01516060292 | airin.tania@nub.ac.bd | 4f43ikwd |
-| TBA | EEE & Circuit Analysis CSE 1205 | TBA | TBA | TBA |
+| Airin Akter Tania | EEE & Circuit Analysis Lab CSE 1259 | 01516060292 | airin.tania@nub.ac.bd | 4f43ikwd |
 
 ---
 
