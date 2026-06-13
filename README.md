@@ -27,8 +27,8 @@
 
 | Faculty Name | Course | Phone Number | Email | GCR CODE |
 | :--- | :--- | :--- | :--- | :--- |
-| Md. Abde Mannaf | Mathematics 2<br>MATH 1302 | 01759372771 | mannaf@nub.ac.bd | 7pjxmbnw |
-| Sara Milham Zaman | Data Structure<br>CSE 2111 | 01631925073 | zaman.milham@gmail.com | TBA |
+| Md. Abde Mannaf | Mathematics 2<br>MATH 1302 | 01759372771 | mannaf@nub.ac.bd | TBA |
+| Sara Milham Zaman | Data Structure<br>CSE 2111 | 01631925073 | zaman.milham@gmail.com | 7pjxmbnw |
 | Maimuna Chowdhury | Data Structure Lab<br>CSE 2162 | 01868530774 | maimuna@nub.ac.bd | kljamt2t |
 | Md. Ashik Azad Khan Anik | Physics 1<br>PHY1201 | 01685114873 | ashikazad.cu@gmail.com | k5facrwr |
 | Airin Akter Tania | EEE & Circuit Analysis \| CSE 1205 | 01516060292 | airin.tania@nub.ac.bd | 4f43ikwd |
