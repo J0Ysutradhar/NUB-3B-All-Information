@@ -16,7 +16,7 @@
 ### Course Specific WhatsApp Groups
 * **Physics 1:** [Join Group](https://chat.whatsapp.com/15CRvaDi8AA6EtEWYubbRi)
 * **Data Structure:** [Join Group](https://chat.whatsapp.com/CR1FxxLUhmAIZxjl9DuX6J)
-* **Data Structure Lab:** [Join Group](https://chat.whatsapp.com/DwS3xPzcv8wKmzfAtaBMH2)
+* **Data Structure Lab:** [Join Group](https://chat.whatsapp.com/DwS3xPzcv8wKmzfAtaBMH9)
 * **Electrical & Circuit:** [Join Group](https://chat.whatsapp.com/ILkHS5FmWpT6VLBI1XWRS%C4%B0)
 * **Electrical & Circuit Lab:** [Join Group](https://chat.whatsapp.com/Fhy3Mr8tQ1C7kPTFrS6Yug)
 * **Math 2:** [Join Group](https://chat.whatsapp.com/CFsTICE2kOC5qzwSr4ShUe)
