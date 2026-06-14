@@ -7,7 +7,7 @@
 
 ## Class Representatives (CRs) Info
 * **Joy:** Cell +8801781763345 E-mail: sutradhar_41250302953@nub.ac.bd
-* **Jannat Islam Mim:** E-mailjm2265315@gmail.com
+* **Jannat Islam Mim:** E-mail jm2265315@gmail.com
 
 ## WhatsApp Groups
 * **General Group:** [Join WhatsApp](https://chat.whatsapp.com/IuBIXH67LmF2nMTztJ4CnV)
